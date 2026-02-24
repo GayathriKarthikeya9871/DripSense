@@ -1,5 +1,4 @@
-# 💧 Smart Water Leakage Detection System
-
+# 💧 DripSense -- Detecting the invisible and alerting the inevitable.
 An interactive IoT-inspired water leakage monitoring and management dashboard built using **Streamlit**.  
 This system simulates real-time water flow monitoring, automated leak detection, maintenance workflows, and system health analytics for residential apartments.
 
